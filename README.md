@@ -17,3 +17,9 @@ No se requiere ninguna instalación para utilizar este proyecto. Solo necesitas 
 
 ## Contribución
 ¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar este proyecto, siéntete libre de enviar un pull request. Antes de contribuir, por favor asegúrate de leer las pautas de contribución.
+
+## Licencia
+Este proyecto se distribuye bajo la Licencia MIT.
+
+##Contacto
+Si tienes alguna pregunta o sugerencia relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico: dafer_guerrero@hotmail.com.
