@@ -12,14 +12,19 @@ Puedes ver una demostración en vivo del proyecto [aquí](https://daferguerrero.
 ## Capturas de pantalla
 <img src="https://github.com/daferguerrero/clone-google/assets/74115222/2ecaa7fc-e14c-4a71-b078-50833cf974f7" alt="Captura pantalla" width="500"/>
 
+## Tecnologías utilizadas
+-   HTML: El marcado semántico de HTML se utiliza para estructurar y organizar el contenido del sitio web.
+    
+-   CSS: Se utilizan hojas de estilo en CSS para aplicar estilos y diseños a todos los elementos utilizados en la estructura HTML.
+
 ## Instalación
 No se requiere ninguna instalación para utilizar este proyecto. Solo necesitas un navegador web compatible.
 
-## Contribución
-¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar este proyecto, siéntete libre de enviar un pull request. Antes de contribuir, por favor asegúrate de leer las pautas de contribución.
-
 ## Licencia
-Este proyecto se distribuye bajo la Licencia MIT.
+Este proyecto se distribuye bajo la Licencia GPL (Licencia Pública General de GNU)
+
+## Autor
+Este proyecto fue creado por [David Fernando Guerrero Vanegas](https://github.com/daferguerrero).
 
 ## Contacto
-Si tienes alguna pregunta o sugerencia relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico: dafer_guerrero@hotmail.com.
+Si tienes alguna pregunta o sugerencia relacionada con este proyecto, puedes contactarme a través de mi dirección de correo electrónico: [dafer.guerrero@gmail.com](dafer.guerrero@gmail.com).
