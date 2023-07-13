@@ -1,4 +1,4 @@
-# Clon de Google
+# Proyecto: Clon de Google
 Este proyecto es un clon de la página de inicio de Google, desarrollado utilizando HTML y CSS.
 
 Puedes ver una demostración en vivo del proyecto [aquí](https://daferguerrero.github.io/clone-google/).
